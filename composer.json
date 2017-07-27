@@ -1,5 +1,5 @@
 {
-	"name": "mercadopago/sdk",
+	"name": "basekit/mercadopago-sdk-php",
 	"description": "MercadoPago SDK module for Payments integration.",
 	"keywords": ["mercadopago", "sdk"],
 	"authors": [
